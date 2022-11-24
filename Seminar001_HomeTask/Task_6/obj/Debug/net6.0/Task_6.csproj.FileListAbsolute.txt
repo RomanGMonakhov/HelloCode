@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\bin\Debug\net6.0\Task_6.exe
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\bin\Debug\net6.0\Task_6.deps.json
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\bin\Debug\net6.0\Task_6.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\bin\Debug\net6.0\Task_6.dll
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\bin\Debug\net6.0\Task_6.pdb
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.dll
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\refint\Task_6.dll
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.pdb
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\Task_6.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar001_HomeTask\Task_6\obj\Debug\net6.0\ref\Task_6.dll
