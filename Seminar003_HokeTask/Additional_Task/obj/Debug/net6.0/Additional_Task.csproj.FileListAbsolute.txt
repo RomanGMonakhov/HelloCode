@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\bin\Debug\net6.0\Additional_Task.exe
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\bin\Debug\net6.0\Additional_Task.deps.json
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\bin\Debug\net6.0\Additional_Task.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\bin\Debug\net6.0\Additional_Task.dll
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\bin\Debug\net6.0\Additional_Task.pdb
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.dll
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\refint\Additional_Task.dll
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.pdb
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\Additional_Task.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Languages\Seminar003_HokeTask\Additional_Task\obj\Debug\net6.0\ref\Additional_Task.dll
