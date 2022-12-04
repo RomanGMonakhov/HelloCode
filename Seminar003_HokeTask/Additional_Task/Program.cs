@@ -30,21 +30,20 @@ string path_output = Directory.GetCurrentDirectory() + "\\OUTPUT.txt";
 string[] lines = System.IO.File.ReadAllLines(path_input);
 
 int n = int.Parse(lines[0]);
-int[] arr = lines[1].Split(' ').Select(n => int.Parse(n)).ToArray();
-
-
-Console.WriteLine(n);
-for (int i = 0; i <= arr.Length - 1; i++)
-    Console.Write($"{arr[i]} ");
+int[] arr = lines[1].Split(' ').Select(i => int.Parse(i)).ToArray();
 
 int rezult = 0;
 
-if (n == 1)
+for (int i = 1; i <= arr.Length - 2; i++) {
+    if (rezult < arr[i - 1] + arr[i] + arr[i + 1])
+        rezult = arr[i - 1] + arr[i] + arr[i + 1];
+}
+
+if (rezult < arr[n - 1] + arr[0] + arr[1])
     rezult = arr[n - 1] + arr[0] + arr[1];
-else if (n == arr.Length)
+
+if (rezult < arr[n - 2] + arr[n - 1] + arr[0])
     rezult = arr[n - 2] + arr[n - 1] + arr[0];
-else
-    rezult = arr[n - 2] + arr[n - 1] + arr[n];
 
 using (StreamWriter writer = new StreamWriter(path_output, false))
     await writer.WriteAsync(rezult.ToString());
