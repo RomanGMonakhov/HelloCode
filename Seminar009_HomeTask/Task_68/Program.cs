@@ -23,4 +23,4 @@ int M = int.Parse(Console.ReadLine());
 Console.WriteLine("Enter N: ");
 int N = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Sum from M to N is: {Akk(M, N)}");
+Console.WriteLine($"Akk(M, N): {Akk(M, N)}");
